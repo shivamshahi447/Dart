@@ -7,7 +7,6 @@ void main() {
   var resultOfMultiplication = math.mult();
   print(resultOfMultiplication);
 }
-
 class Math {
   int a;
   int b;
